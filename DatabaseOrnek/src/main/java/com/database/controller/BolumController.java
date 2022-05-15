@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  *
- * @author zehra
+ * merhaba yeni editör yufus
  */
 public class BolumController {
  private BolumDAO bolumDAO;
